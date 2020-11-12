@@ -127,7 +127,7 @@ textarea {
 #left-1{
   background: #f6bab7;
   float: left;
-  font-size: 23px;
+  font-size: 20px;
 }
 
 #right-1{
@@ -161,7 +161,7 @@ textarea {
   width: 150px;
   height: 150px;
   padding: 25px;
-  font-size: 27px;
+  font-size: 25px;
 }
 
 #right-3{
@@ -187,7 +187,7 @@ textarea {
   background: #b08951;
   float: right;
   margin-top: -200px;
-  font-size: 25px;
+  font-size: 23px;
 }
 /* ==========================================================================
    Helper classes
